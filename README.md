@@ -22,3 +22,6 @@ SHEET_ENDPOINT (The link to your Sheety sheet)<br>
 
 Sheety expects your record to be nested in a singular root property named after your sheet. For example if your endpoint is named emails, nest your record in a property called email.
 See https://sheety.co/docs/requests
+
+## Example Input:
+ran 5 miles, cycled 40 minutes

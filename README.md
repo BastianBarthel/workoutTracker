@@ -21,4 +21,4 @@ TOKEN (Sheety Bearer token)<br>
 SHEET_ENDPOINT (The link to your Sheety sheet)<br>
 
 Sheety expects your record to be nested in a singular root property named after your sheet. For example if your endpoint is named emails, nest your record in a property called email.
-https://sheety.co/docs/requests
+See https://sheety.co/docs/requests
